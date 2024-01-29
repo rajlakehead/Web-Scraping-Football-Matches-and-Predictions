@@ -8,7 +8,7 @@ This project uses machine learning to predict football match results. The data, 
 - Investigated and cleaned missing data.
 - Prepared the data for machine learning modeling.
 
-## Model Development
+## Model
 - Employed RandomForestClassifier for prediction.
 - Time series data split into training and testing sets.
 - Utilized rolling averages to enhance model precision, achieving a 20% improvement.
